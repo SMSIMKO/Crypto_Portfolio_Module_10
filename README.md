@@ -26,11 +26,11 @@
 ## Plots comparing the the elbow curve for inertia of 4 and 6:
 # Compoosite plot to contrast the clusters
 ![bokeh_plot-11](https://github.com/SMSIMKO/Crypto_Portfolio_Module_10/assets/133065537/5267acf2-8eb1-4cfa-a5fd-47aa363cea36)
-![Screenshot 2023-08-22 at 9 46 09 PM](https://github.com/SMSIMKO/Crypto_Portfolio_Module_10/assets/133065537/f61c87ec-21ff-43cf-bcb8-93a4825258fc)
+ ![Screenshot 2023-08-22 at 9 46 09 PM](https://github.com/SMSIMKO/Crypto_Portfolio_Module_10/assets/133065537/f61c87ec-21ff-43cf-bcb8-93a4825258fc)
 
 
 ## Scatter plot comparing the clusters for the predicted clusters of 4 and 6:
-[Screenshot 2023-08-22 at 9.51.18 PM.pdf](https://github.com/SMSIMKO/Crypto_Portfolio_Module_10/files/12414387/Screenshot.2023-08-22.at.9.51.18.PM.pdf)
+### CLICK HERE to view 4 Cluster plot : [Screenshot 2023-08-22 at 9.51.18 PM.pdf](https://github.com/SMSIMKO/Crypto_Portfolio_Module_10/files/12414387/Screenshot.2023-08-22.at.9.51.18.PM.pdf)
 
 ![bokeh_plot-12](https://github.com/SMSIMKO/Crypto_Portfolio_Module_10/assets/133065537/0d5c7409-4847-4a23-bfdc-cbae7b2bee9e)
 
